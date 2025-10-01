@@ -1,6 +1,6 @@
 # Hey there, I'm Favour – @favourdslayer
 
-I'm a passionate self-taught developer who loves building mobile and desktop applications that solve real-world problems.
+A passionate dev who loves building mobile and desktop applications that solve real-world problems..
 
 Whether it's a journal to keep your thoughts organized, a budgeting app to track your spending, or a personal tool that just makes life smoother, I bring ideas to life using **React Native**, **Tauri**, **Firebase**, and more.
 
@@ -26,7 +26,6 @@ Whether it's a journal to keep your thoughts organized, a budgeting app to track
 
 ### 📌 Featured Projects
 - **Budget Tracker App** – Easily monitor and manage income vs. expenses
-- **Learning Journal** – Document your progress and growth
 - **Love Notes App** – A simple, heartfelt app made for a loved one
 - **Report Sheet Calculator** – A teacher's helper for grade calculations
 
