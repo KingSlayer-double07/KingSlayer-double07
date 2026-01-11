@@ -28,6 +28,8 @@ Whether it's a journal to keep your thoughts organized, a budgeting app to track
 - **Budget Tracker App** – Easily monitor and manage income vs. expenses
 - **Love Notes App** – A simple, heartfelt app made for a loved one
 - **Report Sheet Calculator** – A teacher's helper for grade calculations
+- **GPA Calculator** - A simple app to help students calculate their grade point average across semesters
+- **AIM Circle Generator** - A collaborative project that uses AI agents to generate practice questions to help students prepare for examinations and tests
 
 > More coming soon...
 
